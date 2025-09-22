@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Shilpav13/LeetcodeProblems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0344-reverse-string](https://github.com/Shilpav13/LeetcodeProblems/tree/master/0344-reverse-string) |
 ## Array
 |  |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Shilpav13/LeetcodeProblems/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Shilpav13/LeetcodeProblems/tree/master/0003-longest-substring-without-repeating-characters) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -31,4 +33,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/Shilpav13/LeetcodeProblems/tree/master/0334-increasing-triplet-subsequence) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Shilpav13/LeetcodeProblems/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
