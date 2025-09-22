@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shilpav13/LeetcodeProblems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Shilpav13/LeetcodeProblems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shilpav13/LeetcodeProblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0334-increasing-triplet-subsequence](https://github.com/Shilpav13/LeetcodeProblems/tree/master/0334-increasing-triplet-subsequence) |
 ## Hash Table
 |  |
 | ------- |
@@ -26,4 +27,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shilpav13/LeetcodeProblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Greedy
+|  |
+| ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/Shilpav13/LeetcodeProblems/tree/master/0334-increasing-triplet-subsequence) |
 <!---LeetCode Topics End-->
