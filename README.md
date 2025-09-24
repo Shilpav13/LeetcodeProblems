@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shilpav13/LeetcodeProblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0135-candy](https://github.com/Shilpav13/LeetcodeProblems/tree/master/0135-candy) |
 | [0334-increasing-triplet-subsequence](https://github.com/Shilpav13/LeetcodeProblems/tree/master/0334-increasing-triplet-subsequence) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/Shilpav13/LeetcodeProblems/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 ## Hash Table
 |  |
 | ------- |
