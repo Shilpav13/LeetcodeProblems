@@ -7,12 +7,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shilpav13/LeetcodeProblems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Shilpav13/LeetcodeProblems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0344-reverse-string](https://github.com/Shilpav13/LeetcodeProblems/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Shilpav13/LeetcodeProblems/tree/master/0345-reverse-vowels-of-a-string) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shilpav13/LeetcodeProblems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/Shilpav13/LeetcodeProblems/tree/master/0006-zigzag-conversion) |
 | [0344-reverse-string](https://github.com/Shilpav13/LeetcodeProblems/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Shilpav13/LeetcodeProblems/tree/master/0345-reverse-vowels-of-a-string) |
 ## Array
 |  |
 | ------- |
