@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shilpav13/LeetcodeProblems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/Shilpav13/LeetcodeProblems/tree/master/0006-zigzag-conversion) |
+| [0012-integer-to-roman](https://github.com/Shilpav13/LeetcodeProblems/tree/master/0012-integer-to-roman) |
 | [0344-reverse-string](https://github.com/Shilpav13/LeetcodeProblems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Shilpav13/LeetcodeProblems/tree/master/0345-reverse-vowels-of-a-string) |
 ## Array
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Shilpav13/LeetcodeProblems/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shilpav13/LeetcodeProblems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/Shilpav13/LeetcodeProblems/tree/master/0012-integer-to-roman) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -60,5 +62,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Shilpav13/LeetcodeProblems/tree/master/0012-integer-to-roman) |
 | [0172-factorial-trailing-zeroes](https://github.com/Shilpav13/LeetcodeProblems/tree/master/0172-factorial-trailing-zeroes) |
 <!---LeetCode Topics End-->
