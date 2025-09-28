@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/Shilpav13/LeetcodeProblems/tree/master/0173-binary-search-tree-iterator) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Shilpav13/LeetcodeProblems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Depth-First Search
 |  |
@@ -58,10 +59,27 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/Shilpav13/LeetcodeProblems/tree/master/0173-binary-search-tree-iterator) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Shilpav13/LeetcodeProblems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Math
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Shilpav13/LeetcodeProblems/tree/master/0012-integer-to-roman) |
 | [0172-factorial-trailing-zeroes](https://github.com/Shilpav13/LeetcodeProblems/tree/master/0172-factorial-trailing-zeroes) |
+## Stack
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/Shilpav13/LeetcodeProblems/tree/master/0173-binary-search-tree-iterator) |
+## Design
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/Shilpav13/LeetcodeProblems/tree/master/0173-binary-search-tree-iterator) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/Shilpav13/LeetcodeProblems/tree/master/0173-binary-search-tree-iterator) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/Shilpav13/LeetcodeProblems/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
