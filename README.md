@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shilpav13/LeetcodeProblems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/Shilpav13/LeetcodeProblems/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/Shilpav13/LeetcodeProblems/tree/master/0012-integer-to-roman) |
+| [0067-add-binary](https://github.com/Shilpav13/LeetcodeProblems/tree/master/0067-add-binary) |
 | [0344-reverse-string](https://github.com/Shilpav13/LeetcodeProblems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Shilpav13/LeetcodeProblems/tree/master/0345-reverse-vowels-of-a-string) |
 ## Array
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Shilpav13/LeetcodeProblems/tree/master/0012-integer-to-roman) |
+| [0067-add-binary](https://github.com/Shilpav13/LeetcodeProblems/tree/master/0067-add-binary) |
 | [0172-factorial-trailing-zeroes](https://github.com/Shilpav13/LeetcodeProblems/tree/master/0172-factorial-trailing-zeroes) |
 ## Stack
 |  |
@@ -115,8 +117,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Shilpav13/LeetcodeProblems/tree/master/0067-add-binary) |
 | [0137-single-number-ii](https://github.com/Shilpav13/LeetcodeProblems/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/Shilpav13/LeetcodeProblems/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Shilpav13/LeetcodeProblems/tree/master/0191-number-of-1-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/Shilpav13/LeetcodeProblems/tree/master/0201-bitwise-and-of-numbers-range) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Shilpav13/LeetcodeProblems/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
