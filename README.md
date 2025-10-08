@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Shilpav13/LeetcodeProblems/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Shilpav13/LeetcodeProblems/tree/master/0012-integer-to-roman) |
 | [0067-add-binary](https://github.com/Shilpav13/LeetcodeProblems/tree/master/0067-add-binary) |
 | [0172-factorial-trailing-zeroes](https://github.com/Shilpav13/LeetcodeProblems/tree/master/0172-factorial-trailing-zeroes) |
