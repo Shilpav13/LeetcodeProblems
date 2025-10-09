@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/Shilpav13/LeetcodeProblems/tree/master/0137-single-number-ii) |
 | [0198-house-robber](https://github.com/Shilpav13/LeetcodeProblems/tree/master/0198-house-robber) |
 | [0334-increasing-triplet-subsequence](https://github.com/Shilpav13/LeetcodeProblems/tree/master/0334-increasing-triplet-subsequence) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Shilpav13/LeetcodeProblems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Shilpav13/LeetcodeProblems/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 ## Hash Table
 |  |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0135-candy](https://github.com/Shilpav13/LeetcodeProblems/tree/master/0135-candy) |
 | [0334-increasing-triplet-subsequence](https://github.com/Shilpav13/LeetcodeProblems/tree/master/0334-increasing-triplet-subsequence) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Shilpav13/LeetcodeProblems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 ## Sliding Window
 |  |
 | ------- |
@@ -129,4 +131,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Shilpav13/LeetcodeProblems/tree/master/0067-add-binary) |
+## Sorting
+|  |
+| ------- |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Shilpav13/LeetcodeProblems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 <!---LeetCode Topics End-->
