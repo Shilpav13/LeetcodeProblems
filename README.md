@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Shilpav13/LeetcodeProblems/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Shilpav13/LeetcodeProblems/tree/master/0012-integer-to-roman) |
 | [0067-add-binary](https://github.com/Shilpav13/LeetcodeProblems/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/Shilpav13/LeetcodeProblems/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/Shilpav13/LeetcodeProblems/tree/master/0172-factorial-trailing-zeroes) |
 ## Stack
 |  |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Shilpav13/LeetcodeProblems/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Shilpav13/LeetcodeProblems/tree/master/0069-sqrtx) |
 | [0098-validate-binary-search-tree](https://github.com/Shilpav13/LeetcodeProblems/tree/master/0098-validate-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/Shilpav13/LeetcodeProblems/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Shilpav13/LeetcodeProblems/tree/master/0230-kth-smallest-element-in-a-bst) |
